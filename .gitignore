@@ -1,0 +1,12 @@
+/target/
+/Desenvolvimento/
+/bin/
+/data.csv
+/info.csv
+/mvnw
+/mvnw.cmd
+/catalina.out
+target/
+build/
+*.class
+*.rar
